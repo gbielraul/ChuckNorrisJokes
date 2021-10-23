@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chuck Norris Jokes</string>
+    <string name="categories">Categories</string>
+    <string name="check_the_connection">Check the connection</string>
+    <string name="reload">Reload</string>
+    <string name="random">Random</string>
+</resources>

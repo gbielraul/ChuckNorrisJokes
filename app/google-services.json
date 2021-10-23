@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316383589090",
+    "project_id": "chuck-norris-jokes-9c1cb",
+    "storage_bucket": "chuck-norris-jokes-9c1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316383589090:android:37426e8228bc35a172e4bb",
+        "android_client_info": {
+          "package_name": "com.gbielraul.chucknorrisjokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316383589090-q8f4686j8jb4gvap5gbhvs13un7b1faa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmYdfAJjSFghre5JuSKzAcPa8xD5JFP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316383589090-q8f4686j8jb4gvap5gbhvs13un7b1faa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
